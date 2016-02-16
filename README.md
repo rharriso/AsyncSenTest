@@ -1,4 +1,4 @@
 AsyncSenTest
 ============
 
-Asynchronous Tests for built in XCode OCTest
+Asynchronous Tests for built in Xcode OCTest
